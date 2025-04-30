@@ -186,3 +186,36 @@
   text-align: center;
   padding: 2.5rem;
 }
+
+.gallery {
+  display: flex;
+  &__photo {
+    width: 100%;
+    display: block;
+  }
+}
+
+.overview {
+  display: flex;
+  border-bottom: var(--line);
+
+  &__heading {
+  }
+  &__stars {
+    margin-right: auto;
+  }
+  &__location {
+  }
+  &__icon-star,
+  &__icon-location {
+    width: 1.75rem;
+    height: 1.75rem;
+    fill: var(--color-primary);
+  }
+  &__rating {
+  }
+  &__rating-average {
+  }
+  &__rating-count {
+  }
+}
