@@ -10,10 +10,14 @@
     display: flex;
 }
 
-.header{
+.header {
+    font-size: 1.4rem;
     height: 7rem;
     background-color: #fff;
     border-bottom: var(--color-grey-light-2);
+    display: flex;
+    justify-content: space-between; //main axis
+    align-items: center; //cross axis
 }
 
 .sidebar{
