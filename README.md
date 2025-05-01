@@ -1,1 +1,43 @@
-# trillo
+# Trillo - Advanced CSS Demo Project
+
+A modern hotel booking website demo project showcasing advanced CSS techniques, particularly focusing on Flexbox layouts and modern CSS features.
+
+## Features
+
+- Responsive layout using Flexbox
+- Modern UI components
+- Clean and maintainable SCSS architecture
+- Interactive elements with smooth animations
+- Semantic HTML structure
+
+## Project Structure
+
+The project uses a modular SCSS architecture with separate files for:
+- Layout (`_layout.scss`)
+- Components (`_components.scss`)
+- Base styles
+- Variables and utilities
+
+## Key CSS Features Demonstrated
+
+- Flexbox layouts and alignment
+- CSS custom properties (variables)
+- BEM methodology for CSS class naming
+- Responsive design principles
+- CSS animations and transitions
+- Modern CSS selectors and pseudo-elements
+
+## Getting Started
+
+1. Clone the repository
+2. Open `index.html` in your browser
+3. No build process required - this is a pure HTML/CSS demo
+
+## Browser Support
+
+The project uses modern CSS features and is best viewed in recent versions of:
+- Chrome
+- Firefox
+- Safari
+- Edge
+
