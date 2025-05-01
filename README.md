@@ -9,6 +9,7 @@ A modern hotel booking website demo project showcasing advanced CSS techniques, 
 - Clean and maintainable SCSS architecture
 - Interactive elements with smooth animations
 - Semantic HTML structure
+- Beautiful hover and click animations
 
 ## Project Structure
 
@@ -27,6 +28,16 @@ The project uses a modular SCSS architecture with separate files for:
 - CSS animations and transitions
 - Modern CSS selectors and pseudo-elements
 
+## Animations
+
+The project includes several sophisticated animations:
+
+- **Button Animations**: Interactive buttons with pulsate effects and smooth transitions
+- **Hover Effects**: Elegant hover states with transform and transition effects
+- **Navigation Transitions**: Smooth transitions for navigation elements
+- **Scale Animations**: Subtle scaling effects for interactive elements
+- **Transform Effects**: Various transform properties for dynamic interactions
+
 ## Getting Started
 
 1. Clone the repository
@@ -40,4 +51,17 @@ The project uses modern CSS features and is best viewed in recent versions of:
 - Firefox
 - Safari
 - Edge
+
+## Learning Resources
+
+This project is designed as a learning resource for:
+- Flexbox layouts
+- Modern CSS architecture
+- SCSS best practices
+- Responsive web design
+- CSS animations and transitions
+
+## License
+
+This project is available for educational purposes.
 
