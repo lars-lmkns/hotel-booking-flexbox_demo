@@ -1,4 +1,4 @@
-# Trillo - Advanced CSS Demo Project
+# Trillo - CSS Demo Project
 
 A modern hotel booking website demo project showcasing advanced CSS techniques, particularly focusing on Flexbox layouts and modern CSS features.
 
