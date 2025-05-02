@@ -44,24 +44,3 @@ The project includes several sophisticated animations:
 2. Open `index.html` in your browser
 3. No build process required - this is a pure HTML/CSS demo
 
-## Browser Support
-
-The project uses modern CSS features and is best viewed in recent versions of:
-- Chrome
-- Firefox
-- Safari
-- Edge
-
-## Learning Resources
-
-This project is designed as a learning resource for:
-- Flexbox layouts
-- Modern CSS architecture
-- SCSS best practices
-- Responsive web design
-- CSS animations and transitions
-
-## License
-
-This project is available for educational purposes.
-
