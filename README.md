@@ -1,6 +1,7 @@
 # CSS Demo Project
 
 A modern hotel booking website demo project showcasing advanced CSS techniques, particularly focusing on Flexbox layouts and modern CSS features.
+Demo: https://lars-lmkns.github.io/hotel-booking-flexbox_demo/
 
 ## Features
 
