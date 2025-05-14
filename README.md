@@ -43,4 +43,3 @@ The project includes several sophisticated animations:
 1. Clone the repository
 2. Open `index.html` in your browser
 3. No build process required - this is a pure HTML/CSS demo
-
